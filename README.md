@@ -171,10 +171,10 @@ A estas hipótesis se les darán respuesta en los proceso evaluador y de redise�
 
 | Nombre  | Género    | Edad | Ocupación  | Experiencia en internet | Plataforma                         | Perfil cubierto                                                                                 | Puntuación SUS |
 |---------|-----------|------|------------|-------------------------|------------------------------------|------------------------------------------------------------------------------------------------|----------------|
-| 🎭 Diego | Masculino | 43   | Productor   | Alta                    | Escritorio Windows - Móvil iPhone | Constantemente organiza eventos de diversa índole relacionados con el arte contemporáneo.   |        ?         |
-| 👵 Cayetana | Femenino  | 81   | Jubilada   | Baja                    | Móvil Android                       | Su distracción es la cultura. Aprende a navegar por internet. Le gusta ir a obras de teatro y espectáculos de baile flamenco. |      ?         |
-| 🧔 Pedro | Masculino | 27   | Actor | Alta                    | Escritorio Linux                   | Es un bohemio de la vida. Siempre busca algo que hacer. Le gusta la poesía y todo lo relacionado con el arte escénico.               |        ?         |
-| 👩‍🎓 Ana | Femenino  | 22   | Estudiante | Alta                    | Móvil Android                      | Introvertida. En sus ratos libres disfruta reflexionando mientras observa exposiciones.     |    ?    |
+| 🎭 Diego | Masculino | 43   | Productor   | Alta                    | Escritorio Windows - Móvil iPhone | Constantemente organiza eventos de diversa índole relacionados con el arte contemporáneo.   |        50         |
+| 👵 Cayetana | Femenino  | 81   | Jubilada   | Baja                    | Móvil Android                       | Su distracción es la cultura. Aprende a navegar por internet. Le gusta ir a obras de teatro y espectáculos de baile flamenco. |      30         |
+| 🧔 Pedro | Masculino | 27   | Actor | Muy Alta                    | Escritorio Linux                   | Es un bohemio de la vida. Siempre busca algo que hacer. Le gusta la poesía y todo lo relacionado con el arte escénico.               |        62.5         |
+| 👩‍🎓 Ana | Femenino  | 22   | Estudiante | Alta                    | Móvil Android                      | Introvertida. En sus ratos libres disfruta reflexionando mientras observa exposiciones.     |    47.5    |
 
 Estas cuatro personas se han elaborado basándose en personas cercanas de mi entorno, que suelen intesarse por diversos eventos culturales en la ciudad de Granada, tanto desde el punto de vista de organización como desde el punto de vista del consumidor.
 
