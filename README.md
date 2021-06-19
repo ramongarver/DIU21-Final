@@ -117,17 +117,32 @@ En esta segunda parte se va a realizar el análisis del caso de estudio propuest
 [Yuzin](https://yuzin.com/ "Yuzin") es una agenda cultural, digital e impresa, de eventos como música, teatro, cine, baile, museos, etc. En sus inicios surgió con la idea de presentar revistas mensuales en formato físico promocionando las actividades culturales de las ciudades de Granada y Sevilla.
 
 #### Exposición de la web y la revista antes del rediseño
-##### Página de inicio
+##### Página web de inicio
 ![image](img/yuzinantiguo-inicio.png "Página de inicio")
 Obtenida vía [WayBackMachine](https://web.archive.org/web/20170521081537/http://yuzin.com:80/) de un snapshot del día 21 de mayo de 2017.
 
-##### Pagínas de revista
-![image](img/yuzinantiguo-revista1.png "Página de revista 1")
-![image](img/yuzinantiguo-revista2.png "Página de revista 2")
+##### Páginas de revista
+
+![image](img/yuzinantiguo-revista1.png "Portada de revista") | ![image](img/yuzinantiguo-revista2.png "Página de revista") | ![image](img/yuzinantiguo-revista3.png "Página de revista") | ![image](img/yuzinantiguo-revista4.png "Página de revista") | ![image](img/yuzinantiguo-revista5.png "Página de revista")
+:----|----|----|----|----:
+
+
 Obtenidas vía [WayBackMachine](https://web.archive.org/web/20170628084034/http://yuzin.com/revistagranada/yuzingranada.pdf) de un snapshot del día 28 de junio de 2017.
 
 En un proceso renovador de transformación digital se rediseñó la web, dejando en un segundo plano la edición de la revista. 
 
+#### Exposición de la web y la revista después del rediseño
+##### Página web de inicio
+![image](img/yuzin-inicio.png "Página de inicio")
+Obtenida vía [Yuzin](https://yuzin.com/).
+
+##### Páginas de revista
+
+![image](img/yuzin-revista1.png "Portada de revista") | ![image](img/yuzin-revista2.png "Página de revista") | ![image](img/yuzin-revista3.png "Página de revista") | ![image](img/yuzin-revista4.png "Página de revista") | ![image](img/yuzin-revista5.png "Página de revista")
+:----|----|----|----|----:
+
+
+Obtenidas vía [Yuzin](https://yuzin.com/wp-content/uploads/2021/06/YUZIN-GRANADA-junio-2021.pdf).
 
 ### Conclusiones
 
