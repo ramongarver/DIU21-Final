@@ -153,6 +153,20 @@ A estas hipótesis se les darán respuesta en los proceso evaluador y de redise�
 
 #### Usability Review
 
+![image](img/yuzin-usability-review-1.png)
+
+![image](img/yuzin-usability-review-2.png)
+
+![image](img/yuzin-usability-review-3.png)
+
+![image](img/yuzin-usability-review-4.png)
+
+##### Enlaces al Usability Review
+
+:link: [Yuzin-Usability-Review.pdf](doc/Yuzin-Usability-Review.pdf)
+
+:link: [Yuzin-Usability-Review.xlsx](doc/Yuzin-Usability-Review.xlsx)
+
 #### User Testing
 
 #### System Usability Scale Test (SUS)
