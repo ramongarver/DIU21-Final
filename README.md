@@ -188,6 +188,14 @@ Estas cuatro personas se han elaborado basándose en personas cercanas de mi ent
 
 #### System Usability Scale Test (SUS)
 
+![image](img/yuzin-system-usability-scale-test.png)
+
+##### Enlaces al test de usabilidad System Usability Scale Test
+
+:link: [Yuzin-System-Usability-Scale-Test.pdf](doc/Yuzin-System-Usability-Scale-Test.pdf)
+
+:link: [Yuzin-System-Usability-Scale-Test.xlsx](doc/Yuzin-System-Usability-Scale-Test.xlsx)
+
 #### Usability Report
 
 #### Propuesta de Mejora
