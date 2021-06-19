@@ -38,10 +38,7 @@ En relación a una parte algo más avanzada de la asignatura, relacionada con **
   Esta actividad me sirvió para comprender mejor los patrones y tareas de interacción. A priori, no es tan obvio identificar un patrón ya que los elementos a los que se refiere están muy interiorizados y pasan desapercibidos en la mayoría de sitios. Por ejemplo: es algo muy común tener una barra de búsqueda, con autocompletado y, posiblemente, búsqueda avanzada. Pues en esto tan común tenemos, al menos, tres patrones reflejados. Antes de haber visto este contenido y haber realizado la actividad ni se me habría ocurrido pensar que ese módulo se constituiría en base a tres patrones y que tendría una explicación teórica a su razón de ser.
 
 Con respecto a las actividades realizadas de forma individual me gustaría destacar la relacionada con la **evaluación de la accesibilidad**.
-- Hasta el momento de realizar la actividad no conocía el amplio abanico de herramientas existente para realizar dicha evaluación. Me sorprendieron gratamente herramientas tan interesantes como:
-  - *[Accessibility Insights](https://accessibilityinsights.io/ "Accessibility Insights")*
-  - *[Funkify](https://www.funkify.org/ "Funkify")*
-  - *[Web Disability Simulator](https://chrome.google.com/webstore/detail/web-disability-simulator/olioanlbgbpmdlgjnnampnnlohigkjla "Web Disability Simulator")*
+- Hasta el momento de realizar la actividad no conocía el amplio abanico de herramientas existente para realizar dicha evaluación. Me sorprendieron gratamente herramientas tan interesantes como *[Accessibility Insights](https://accessibilityinsights.io/ "Accessibility Insights")*, *[Funkify](https://www.funkify.org/ "Funkify")* o *[Web Disability Simulator](https://chrome.google.com/webstore/detail/web-disability-simulator/olioanlbgbpmdlgjnnampnnlohigkjla "Web Disability Simulator")*.
   
   Gracias a ellas pude realizar pruebas para medir la accesibilidad en sus diferentes niveles y simular diferentes capacidades en la web. Esta actividad me proporcionó una visión global sobre los retos más frecuentes en cuanto al diseño para lograr un alto grado de accesibilidad. Ahora soy más consciente de que hay personas con diferentes capacidades que tienen el derecho de acceder en condiciones similares al resto de personas a las webs.
 
@@ -50,10 +47,10 @@ En relación a cada una de las prácticas de la asignatura, puedo destacar diver
 
 - En primer lugar, con respecto a la **primera práctica**, me gustaría destacar tanto el **competitive analysis** como el **usability review**. 
   - Sobre la primera actividad, **competitive analysis**, he conseguido: 
-    - **Identificar, analizar y comparar las experiencias de usuario** en los más frecuentes micro-momentos que pueden tener los usuarios en las diferentes plataformas.
+    - **Identificar, analizar y comparar las experiencias de usuario** en los más frecuentes micro-momentos que pueden tener los usuarios en las diferentes plataformas comparadas.
     - **Seleccionar la propuesta que más se ha adaptado al objetivo requerido** para los aspectos de experiencia de usuario considerados importantes. 
   - Sobre la segunda actividad, **usability review**, he conseguido: 
-    - **Realizar una valoración de usabilidad** desde un punto de vista **objetivo e imparcial** de la plataforma elegida.
+    - **Realizar una valoración de usabilidad** de la plataforma elegida desde un punto de vista **objetivo e imparcial**.
     - **Identificar sus aspectos positivos, mejorables y negativos**.
     - **Medir las funcionalidades** en relación a sus usos por los usuarios.
     - **Establecer una conclusión final** en base a los resultados obtenidos.
@@ -76,29 +73,34 @@ En relación a cada una de las prácticas de la asignatura, puedo destacar diver
 
 
 ### Otras aportaciones
-En relación a otras experiencias externas a esta asignatura, pero relacionadas intrínsecamente con la misma, puedo destacar el diseño de una web de gestión de eventos de fotografía en el contexto de la asignatura de Sistemas de Información Basados en Web.
+En relación a otras experiencias externas a esta asignatura, pero relacionadas intrínsecamente con la misma, puedo destacar el **diseño de una web de gestión de eventos de fotografía** en el contexto de la asignatura de ***Sistemas de Información Basados en Web***.
 Algunos elementos a destacar del diseño:
-- Estructura del sitio web usando la técnica de scrolling para mejorar la experiencia de usuario.
-- Layout de primer nivel formado por: un header, con una barra de navegación primaria; una parte principal, donde se muestra información que podría ser de interés para el usuario; un aside, con enlaces a diferentes sitios con predisposición a ser visitados por los usuarios que visitan la web; un footer, con información básica de contacto y copyright.
-- Layout de segundo nivel formado por: una parte principal, con una barra de búsqueda y un grid de eventos.
-- Esquema de color acromático (escala de grises) adecuado a la imagen corporativa.
-- Estilo visual bien definido con elementos multimedia que propician una consistencia real siguiendo guías de estilo de nuevas tendencias de diseño.
-- Especial atención a los siguientes principios: 
-  - Claridad visual, agrupando, organizando y alineando los elementos de forma lógica.
-  - Consistencia visual, organizando de forma correcta los elementos de distinta naturaleza, por ejemplo, en diferentes categorías principales.
-  - Formato de pantalla, permitiendo el diseño adaptativo y responsive estableciendo, por ejemplo, el volumen de información o la densidad de elementos por módulo.
+- **Estructura** del sitio web usando la técnica de **scrolling** para mejorar la experiencia de usuario.
+- **Layout de primer nivel** formado por:
+  - Un **header**, con el **logotipo** y una **barra de navegación primaria**. 
+  - Una **parte principal**, donde se muestra información que podría ser de interés para el usuario. 
+  - Un **aside**, con enlaces a diferentes sitios con predisposición a ser visitados por los usuarios que visitan la web.
+  - Un **footer**, con información básica de contacto y copyright.
+- **Layout de segundo nivel** formado por: 
+  - Una **parte principal**, con una **barra de búsqueda** y un **grid de eventos**.
+- **Esquema de color acromático** (escala de grises) adecuado a la imagen corporativa.
+- **Estilo visual** bien definido con elementos multimedia que propician una **consistencia** real **siguiendo guías de estilo de nuevas tendencias de diseño**.
+- Especial atención a los siguientes **principios**: 
+  - **Claridad visual**: agrupando, organizando y alineando los elementos de forma lógica.
+  - **Consistencia visual**: organizando de forma correcta los elementos de distinta naturaleza, por ejemplo, en diferentes categorías principales.
+  - **Formato de pantalla**: permitiendo el diseño adaptativo y responsive estableciendo, entre otros valores, el volumen de información y la densidad de elementos por módulo.
 
 Exposición del diseño web:
 
 El diseño web se realizó teniendo en cuenta las diferentes funcionalidades requeridas por la aplicación. Debido a la estructura de las prácticas fue un proyecto incremental, por lo que las funcionalidades cambiaron con el paso del tiempo y el diseño se tuvo que ir adaptando, es decir, conforme la idea iba avanzando la web se iba rediseñando.
 
-Siempre he estado interesado en encontrar el sentido a las cosas que aprendo. En este caso, eso se refleja en aplicar lo aprendido en una situación diferente a la de la propia enseñanza de la materia. Gracias a que he estado cursando las asignaturas durante el mismo periodo de tiempo, he podido ir aplicando los conocimientos adquiridos de forma paralela a su aprendizaje, algo que considero realmente beneficioso para la correcta compresión y asimilación.
+Siempre he estado interesado en encontrar el sentido a las cosas que aprendo. En este caso, eso se refleja en aplicar lo aprendido en una situación diferente a la de la propia enseñanza de la materia. Gracias a que he estado cursando las asignaturas durante el mismo periodo de tiempo, he podido ir aplicando los conocimientos adquiridos de forma paralela a su aprendizaje, algo que considero realmente beneficioso para su correcta compresión y asimilación.
 
 Realizar esta labor me ha permitido añadir un proyecto extra a mi experiencia. De esta forma, me he podido enfrentar a un doble proyecto, uno guiado en la propia asignatura y otro alternativo, propio y no guiado. Esta metodología de aprendizaje basado en proyectos me ha permitido adquirir todos los conocimientos teórico-prácticos de forma eficaz.
 
 
 ### Conclusiones
-Evidentemente, en la descripción realizada de mi experiencia no están reflejadas todas las actividades llevadas a cabo a lo largo del curso, ya que por la longitud de este ensayo no ha sido posible. Sin embargo, he intentado destacar las actividades que me han parecido más interesantes y que, personalmente, me han aportado más tanto desde un punto de vista académico como desde, a lo que me podría referir como, un punto de vista profesional. He intentado complementar las actividades en los diferentes contextos con el objetivo de hablar del mayor número de partes del temario.
+Evidentemente, en la descripción realizada de mi experiencia no están reflejadas todas las actividades llevadas a cabo a lo largo del curso, ya que por la longitud de este ensayo no ha sido posible. Sin embargo, he intentado destacar las actividades que me han parecido más interesantes y que, personalmente, me han aportado más tanto desde un punto de vista académico como desde, a lo que me podría referir como, un punto de vista profesional. He intentado complementar las actividades en los diferentes contextos con el objetivo de describir el mayor contenido del temario posible en relación con las mismas.
 
 ## Parte II: Caso de estudio. Web Yuzin
 
