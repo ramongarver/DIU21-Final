@@ -90,9 +90,16 @@ Algunos elementos a destacar del diseño:
   - **Consistencia visual**: organizando de forma correcta los elementos de distinta naturaleza, por ejemplo, en diferentes categorías principales.
   - **Formato de pantalla**: permitiendo el diseño adaptativo y responsive estableciendo, entre otros valores, el volumen de información y la densidad de elementos por módulo.
 
-Exposición del diseño web:
+#### Exposición del diseño web:
+![image](img/eventsxvsco-inicio.png)
 
-El diseño web se realizó teniendo en cuenta las diferentes funcionalidades requeridas por la aplicación. Debido a la estructura de las prácticas fue un proyecto incremental, por lo que las funcionalidades cambiaron con el paso del tiempo y el diseño se tuvo que ir adaptando, es decir, conforme la idea iba avanzando la web se iba rediseñando.
+![image](img/eventsxvsco-eventos.png)
+
+![image](img/eventsxvsco-evento.png)
+
+
+
+El diseño web se realizó teniendo en cuenta las diferentes funcionalidades requeridas por la aplicación. Debido a la estructura de las prácticas fue un proyecto incremental, por lo que las funcionalidades cambiaron con el paso del tiempo y el diseño se tuvo que ir adaptando, es decir, conforme la idea iba avanzando la web se iba rediseñando. No se pudo aplicar todo lo aprendido en la asignatura ya que en el momento de la realización no se sabían muchas de las cosas vistas a lo largo de la misma, por ello el diseño puede presentar algunas carencias.
 
 Siempre he estado interesado en encontrar el sentido a las cosas que aprendo. En este caso, eso se refleja en aplicar lo aprendido en una situación diferente a la de la propia enseñanza de la materia. Gracias a que he estado cursando las asignaturas durante el mismo periodo de tiempo, he podido ir aplicando los conocimientos adquiridos de forma paralela a su aprendizaje, algo que considero realmente beneficioso para su correcta compresión y asimilación.
 
