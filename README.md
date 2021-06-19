@@ -143,6 +143,12 @@ Obtenida vía [Yuzin](https://yuzin.com/).
 
 Obtenidas vía [Yuzin](https://yuzin.com/wp-content/uploads/2021/06/YUZIN-GRANADA-junio-2021.pdf).
 
+#### Hipótesis planteadas
+- ¿Es adecuado el rediseño?
+- ¿Se ha aplicado correctamente el rediseño para mejorar la experiencia de usuario?
+- ¿Se mejoraría algo?
+A estas hipótesis se les darán respuesta en los proceso evaluador y de rediseño. 
+
 ### Evaluación del caso de estudio
 
 #### Usability Review
