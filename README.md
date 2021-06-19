@@ -1,5 +1,5 @@
 # DIU21-Final
-### **Trabajo final** de la asignatura **Diseño de Interfaces de Usuario**.
+### **Trabajo final** de la asignatura ***Diseño de Interfaces de Usuario***.
 
 #### Grado en Ingeniería Informática. Curso académico 2020/2021.
 
