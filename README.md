@@ -169,6 +169,23 @@ A estas hipótesis se les darán respuesta en los proceso evaluador y de redise�
 
 #### User Testing
 
+| Nombre  | Género    | Edad | Ocupación  | Experiencia en internet | Plataforma                         | Perfil cubierto                                                                                 | Puntuación SUS |
+|---------|-----------|------|------------|-------------------------|------------------------------------|------------------------------------------------------------------------------------------------|----------------|
+| 🎭 Diego | Masculino | 43   | Productor   | Alta                    | Escritorio Windows - Móvil iPhone | Constantemente organiza eventos de diversa índole relacionados con el arte contemporáneo.   |        ?         |
+| 👵 Cayetana | Femenino  | 81   | Jubilada   | Baja                    | Móvil Android                       | Su distracción es la cultura. Aprende a navegar por internet. Le gusta ir a obras de teatro y espectáculos de baile flamenco. |      ?         |
+| 🧔 Pedro | Masculino | 27   | Actor | Alta                    | Escritorio Linux                   | Es un bohemio de la vida. Siempre busca algo que hacer. Le gusta la poesía y todo lo relacionado con el arte escénico.               |        ?         |
+| 👩‍🎓 Ana | Femenino  | 22   | Estudiante | Alta                    | Móvil Android                      | Introvertida. En sus ratos libres disfruta reflexionando mientras observa exposiciones.     |    ?    |
+
+Estas cuatro personas se han elaborado basándose en personas cercanas de mi entorno, que suelen intesarse por diversos eventos culturales en la ciudad de Granada, tanto desde el punto de vista de organización como desde el punto de vista del consumidor.
+
+- *Diego*, productor, tiene un perfil que aporta experiencia para con las funcionalidades no tan comunes en el uso de estos productos. Gracias a esto, se ha podido identificar carencias variadas asociadas a un mal diseño del producto con relación a la parte organizativa y de inclusión de eventos.
+
+- *Cayetana*, jubilada, tiene un perfil que aporta inexperiencia en el uso de las nuevas tecnologías. Por ello, ha sido útil que realizara la valoración, teniendo como objetivo encontrar las deficiencias de diseño que pueden afectar a personas que no se desenvuelven del todo bien en estos entornos. Además, había utilizado la revista de Yuzin en numerosas ocasiones. Su valoración ha permitido saber si la transformación digital realizada alcanza a personas de esta edad.
+
+- *Pedro*, actor, tiene un perfil que aporta conocimiento sobre el mundo del espectáculo y la cultura. Esto ha permitido identificar puntos a reestructurar en relación a las tendencias y experiencias más novedosas.
+
+- *Elena*, estudiante, tiene un perfil que es muy común en la utilización de este tipo de productos. Esto ha sido útil para identificar los diferentes insights en relación al interés en un único tipo de experiencia.
+
 #### System Usability Scale Test (SUS)
 
 #### Usability Report
