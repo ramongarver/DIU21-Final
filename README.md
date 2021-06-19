@@ -91,11 +91,11 @@ Algunos elementos a destacar del diseño:
   - **Formato de pantalla**: permitiendo el diseño adaptativo y responsive estableciendo, entre otros valores, el volumen de información y la densidad de elementos por módulo.
 
 #### Exposición del diseño web:
-![image](img/eventsxvsco-inicio.png)
+![image](img/eventsxvsco-inicio.png "Página de inicio")
 
-![image](img/eventsxvsco-eventos.png)
+![image](img/eventsxvsco-eventos.png "Página de eventos")
 
-![image](img/eventsxvsco-evento.png)
+![image](img/eventsxvsco-evento.png "Página de información de un evento")
 
 
 
@@ -111,12 +111,33 @@ Evidentemente, en la descripción realizada de mi experiencia no están reflejad
 
 ## Parte II: Caso de estudio. Web Yuzin
 ### Introducción
-En esta segunda parte se va a realizar el análisis del caso de estudio propuesto con el objetivo de establecer una propuesta de mejora basada en evidencias. En base a la propuesta de mejora se elaborará una propuesta de diseño de la interfaz. De todo el conjunto de técnicas estudiado y aplicado a lo largo de la asignatura, se van a seleccionar algunas técnicas para realizar tanto el análisis como el rediseño, ya que no es posible aplicarlas todas debido al límite temporal de realización del mismo. Se va a justificar la selección estas técnicas, explicando por qué se han considerado adecuadas y qué aportan al estudio.
+En esta segunda parte se va a realizar el análisis del caso de estudio propuesto con el objetivo de establecer una propuesta de mejora basada en evidencias. En base a la propuesta de mejora se elaborará una propuesta de diseño de la interfaz. De todo el conjunto de técnicas estudiado y aplicado a lo largo de la asignatura, se van a seleccionar algunas técnicas para realizar tanto el análisis como el rediseño, ya que no es posible aplicarlas todas debido al límite temporal de realización del mismo. Se va a justificar la selección estas técnicas, explicando por qué se han considerado adecuadas y qué aportan al estudio, en base a las buenas prácticas vistas en la asignatura y a las nuevas tendencias de diseño.
 
 ### Exposición del caso de estudio
+[Yuzin](https://yuzin.com/ "Yuzin") es una agenda cultural, digital e impresa, de eventos como música, teatro, cine, baile, museos, etc. En sus inicios surgió con la idea de presentar revistas mensuales en formato físico promocionando las actividades culturales de las ciudades de Granada y Sevilla.
+
+#### Exposición de la web y la revista antes del rediseño
+##### Página de inicio
+![image](img/yuzinantiguo-inicio.png "Página de inicio")
+Obtenida vía [WayBackMachine](https://web.archive.org/web/20170521081537/http://yuzin.com:80/) de un snapshot del día 21 de mayo de 2017.
+
+##### Pagínas de revista
+![image](img/yuzinantiguo-revista1.png "Página de revista 1")
+![image](img/yuzinantiguo-revista2.png "Página de revista 2")
+Obtenidas vía [WayBackMachine](https://web.archive.org/web/20170628084034/http://yuzin.com/revistagranada/yuzingranada.pdf) de un snapshot del día 28 de junio de 2017.
+
+En un proceso renovador de transformación digital se rediseñó la web, dejando en un segundo plano la edición de la revista. 
+
 
 ### Conclusiones
 
-## Conclusiones
+### Referencias
 
-## Referencias
+## Conclusiones
+Habiendo finalizado todo el trabajo, me gustaría hacer una última valoración de lo que me ha aportado la asignatura.
+
+A modo general, el compendio de ejercicios y actividades desarrollados a lo largo de la asignatura me ha permitido adquirir una visión global del proceso que se lleva a cabo en la realización de un diseño centrado en el usuario. Con respecto a esta visión global, he logrado comprender cómo se interrelacionan las partes creativa y técnica de un proyecto. A veces es difícil concebir los proyectos como un todo, ya que, por regla general, nuestros estudios se centran en la parte más técnica de la creación de un producto software. Aprender los conocimientos de esta materia me ha hecho establecer relaciones entre el diseño de interfaces de usuario y las técnicas de desarrollo de software.
+
+De forma algo más específicia, la asignatura me ha enseñado a aplicar los principios de diseño que hacer que una interfaz sea usable en sus diferentes niveles. También, me ha aportado experiencia sobre las técnicas y estilos de interacción tanto básicos como avanzados y su integración para con las interfaces de usuario.
+
+Creo que gracias a esta asignatura soy capaz de valorar las necesidades del cliente en cuanto al diseño se refiere, sabiendo identificar y especificar los requisitos para satisfacer estas necesidades. Además, en base a estas valoraciones, soy capaz de diseñar soluciones apropiadas en diferentes dominios de aplicación utilizando herramientas específicas, siguiendo buenas prácticas de creación de productos.
