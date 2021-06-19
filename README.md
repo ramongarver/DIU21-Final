@@ -113,6 +113,9 @@ Evidentemente, en la descripción realizada de mi experiencia no están reflejad
 ### Introducción
 En esta segunda parte se va a realizar el análisis del caso de estudio propuesto con el objetivo de establecer una propuesta de mejora basada en evidencias. En base a la propuesta de mejora se elaborará una propuesta de diseño de la interfaz. De todo el conjunto de técnicas estudiado y aplicado a lo largo de la asignatura, se van a seleccionar algunas técnicas para realizar tanto el análisis como el rediseño, ya que no es posible aplicarlas todas debido al límite temporal de realización del mismo. Se va a justificar la selección estas técnicas, explicando por qué se han considerado adecuadas y qué aportan al estudio, en base a las buenas prácticas vistas en la asignatura y a las nuevas tendencias de diseño.
 
+### Proceso seguido
+Explicación del proceso seguido...
+
 ### Exposición del caso de estudio
 [Yuzin](https://yuzin.com/ "Yuzin") es una agenda cultural, digital e impresa, de eventos como música, teatro, cine, baile, museos, etc. En sus inicios surgió con la idea de presentar revistas mensuales en formato físico promocionando las actividades culturales de las ciudades de Granada y Sevilla.
 
@@ -122,10 +125,8 @@ En esta segunda parte se va a realizar el análisis del caso de estudio propuest
 Obtenida vía [WayBackMachine](https://web.archive.org/web/20170521081537/http://yuzin.com:80/) de un snapshot del día 21 de mayo de 2017.
 
 ##### Páginas de revista
-
 ![image](img/yuzinantiguo-revista1.png "Portada de revista") | ![image](img/yuzinantiguo-revista2.png "Página de revista") | ![image](img/yuzinantiguo-revista3.png "Página de revista") | ![image](img/yuzinantiguo-revista4.png "Página de revista") | ![image](img/yuzinantiguo-revista5.png "Página de revista")
 :----|----|----|----|----:
-
 
 Obtenidas vía [WayBackMachine](https://web.archive.org/web/20170628084034/http://yuzin.com/revistagranada/yuzingranada.pdf) de un snapshot del día 28 de junio de 2017.
 
@@ -137,18 +138,36 @@ En un proceso renovador de transformación digital se rediseñó la web, dejando
 Obtenida vía [Yuzin](https://yuzin.com/).
 
 ##### Páginas de revista
-
 ![image](img/yuzin-revista1.png "Portada de revista") | ![image](img/yuzin-revista2.png "Página de revista") | ![image](img/yuzin-revista3.png "Página de revista") | ![image](img/yuzin-revista4.png "Página de revista") | ![image](img/yuzin-revista5.png "Página de revista")
 :----|----|----|----|----:
 
-
 Obtenidas vía [Yuzin](https://yuzin.com/wp-content/uploads/2021/06/YUZIN-GRANADA-junio-2021.pdf).
 
-### Conclusiones
+### Evaluación del caso de estudio
+
+#### Usability Review
+
+#### User Testing
+
+#### System Usability Scale Test (SUS)
+
+#### Usability Report
+
+#### Propuesta de Mejora
+
+### Rediseño del caso de estudio
+
+#### Moodboard y Guía de Estilo
+
+#### Mockup
+
+#### Landing Page
+
+### Conclusiones del caso de estudio
 
 ### Referencias
 
-## Conclusiones
+## Conclusiones de la asignatura
 Habiendo finalizado todo el trabajo, me gustaría hacer una última valoración de lo que me ha aportado la asignatura.
 
 A modo general, el compendio de ejercicios y actividades desarrollados a lo largo de la asignatura me ha permitido adquirir una visión global del proceso que se lleva a cabo en la realización de un diseño centrado en el usuario. Con respecto a esta visión global, he logrado comprender cómo se interrelacionan las partes creativa y técnica de un proyecto. A veces es difícil concebir los proyectos como un todo, ya que, por regla general, nuestros estudios se centran en la parte más técnica de la creación de un producto software. Aprender los conocimientos de esta materia me ha hecho establecer relaciones entre el diseño de interfaces de usuario y las técnicas de desarrollo de software.
