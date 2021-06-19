@@ -7,7 +7,7 @@
 
 En este trabajo final se pretenden evaluar las competenecias adquiridas en la asignatura para resolver un caso de estudio atendiendo a los principios de **User Experience** & **Usability**. Consta de dos partes principales:
 - Revisión general del trabajo en la asignatura. Descripción de las aportaciones y contribuciones más destacadas del estudiante.
-- Aplicación de conocimientos teórico-prácticos al supuesto propuesto.
+- Aplicación de conocimientos teórico-prácticos al supuesto propuesto. Análisis de un caso de estudio para, posteriormente, establecer una propuesta de mejora basada en evidencias con una propuesta de diseño de la interfaz.
 
 ### Realizado por:
 
@@ -110,5 +110,13 @@ Realizar esta labor me ha permitido añadir un proyecto extra a mi experiencia. 
 Evidentemente, en la descripción realizada de mi experiencia no están reflejadas todas las actividades llevadas a cabo a lo largo del curso, ya que por la longitud de este ensayo no ha sido posible. Sin embargo, he intentado destacar las actividades que me han parecido más interesantes y que, personalmente, me han aportado más tanto desde un punto de vista académico como desde, a lo que me podría referir como, un punto de vista profesional. He intentado complementar las actividades en los diferentes contextos con el objetivo de describir el mayor contenido del temario posible en relación con las mismas.
 
 ## Parte II: Caso de estudio. Web Yuzin
+### Introducción
+En esta segunda parte se va a realizar el análisis del caso de estudio propuesto con el objetivo de establecer una propuesta de mejora basada en evidencias. En base a la propuesta de mejora se elaborará una propuesta de diseño de la interfaz. De todo el conjunto de técnicas estudiado y aplicado a lo largo de la asignatura, se van a seleccionar algunas técnicas para realizar tanto el análisis como el rediseño, ya que no es posible aplicarlas todas debido al límite temporal de realización del mismo. Se va a justificar la selección estas técnicas, explicando por qué se han considerado adecuadas y qué aportan al estudio.
+
+### Exposición del caso de estudio
 
 ### Conclusiones
+
+## Conclusiones
+
+## Referencias
