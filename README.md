@@ -240,15 +240,33 @@ Estas cuatro personas se han elaborado basándose en personas cercanas de mi ent
 ![gif](img/landing-page.gif)
 
 ### Conclusiones del caso de estudio
+Para terminar, voy a comentar brevemente el proceso seguido para este caso de estudio. 
 
-### Referencias
+Al tratarse de un rediseño de una web lo primero que he realizado ha sido un análisis profundo del mismo, evaluando la mayor parte de aspectos posible con el objetivo de detectar las carencias más importantes del mismo. De esta forma, he podido determinar que el rediseño no fue adecuado y he propuesto mejoras para corregirlo. La primera técnica que he aplicado ha sido la elaboración de un Usability Review que me permitió obtener evidencias específicas sobre usabilidad clasificadas en diferentes categorías. Posteriormente, he diseñado un User Testing en el que han participado cuatro personas de mi entorno, realizando un System Usability Scale Test, que no ha arrojado buenos resultados. De esta forma, he demostrado que el rediseño no es adecuado para la gran mayoría de usuarios. Tras esto, y para finalizar con la evaluación, he elaborado un completo Usability Report que sintetiza los resultados obtenidos en las diferentes valoraciones. En este documento se han realizado las recomendaciones y propuestas de mejora junto a las conclusiones de la evaluación.
+
+Posteriormente, y en base a los resultados de evaluación, se han llevado a cabo sendas tareas de rediseño. En primer lugar, he elaborado un moodboard, extrayendo los elementos más interesantes del rediseño de partida y aportando algunos extra que he considerado interesantes. Posteriormente, he diseñado un simple mockup con el que, únicamente, he querido mostrar cómo solucionar los problemas más graves detectados: no saber identificar la información más importante que se debe mostrar al usuario. He simplificado la interfaz, dándole importancia a los eventos, que son lo que más consultan los usuarios, con la creación de un grid en la página de inicio. Cabe destacar que habría sido interesante abordar otras partes del rediseño como, por ejemplo, un etiquetado acorde a la base de usuarios de la web, sin embargo, por el tiempo disponible no ha sido posible. También, he diseñado una tarjeta de evento que podría servir para dar difusión a diferentes actividades. Tras el diseño del mockup y de la tarjeta de evento, para finalziar, y con el objetivo de poner en valor la idea inicial de Yizun, perdida en el rediseño de partida, he diseñado una landing page que transmite las diferentes propuestas de la web.
+
+### Referencias y herramientas
+
+Puedo destacar las siguientes fuentes de referencia:
+- Buenas prácticas de diseño de UX de [Adobe](https://xd.adobe.com/ideas/career-tips/15-rules-every-ux-designer-know/ "Adobe").
+- [Pttrns](https://www.pttrns.com/ "pttrns") para la elección de diferentes patrones con el objetivo de aplicarlos en el rediseño.
+- [UXPin](https://www.uxpin.com/ "UXpin") para inspiración en base a diferentes diseños.
+- [Designspiration](https://www.designspiration.com/ "Designspiration") para comparar diferentes recursos.
+
+Puedo destacar las siguientes herramientas:
+- [Coolors](https://coolors.co/ "Coolors") para la elaboración de la *paleta de colores*.
+- [Milanote](https://app.milanote.com/ "Milanote") para la elaboración del **moodboard**.
+- [Canva](https://www.canva.com/ "Canva") para la realización del **mockup** y **landing page**.
+
+Además de todas las mencionadas, existen muchas más que se han ido consultando y utilizando durante el desarrollo de la asignatura.
 
 ## Conclusiones de la asignatura
 Habiendo finalizado todo el trabajo, me gustaría hacer una última valoración de lo que me ha aportado la asignatura.
 
 A modo general, el compendio de ejercicios y actividades desarrollados a lo largo de la asignatura me ha permitido adquirir una visión global del proceso que se lleva a cabo en la realización de un diseño centrado en el usuario. Con respecto a esta visión global, he logrado comprender cómo se interrelacionan las partes creativa y técnica de un proyecto. A veces es difícil concebir los proyectos como un todo, ya que, por regla general, nuestros estudios se centran en la parte más técnica de la creación de un producto software. Aprender los conocimientos de esta materia me ha hecho establecer relaciones entre el diseño de interfaces de usuario y las técnicas de desarrollo de software.
 
-De forma algo más específicia, la asignatura me ha enseñado a aplicar los principios de diseño que permiten que una interfaz sea usable en sus diferentes niveles. También, me ha aportado experiencia sobre las técnicas y estilos de interacción tanto básicos como avanzados y su integración para con las interfaces de usuario. A lo anterior, puedo añadir que me ha dado la capacidad para evaluar propiedades de calidad tan importantes como la usabilidad y la accesibilidad y las herramientas necesarias para ello.
+De forma algo más específica, la asignatura me ha enseñado a aplicar los principios de diseño que permiten que una interfaz sea usable en sus diferentes niveles. También, me ha aportado experiencia sobre las técnicas y estilos de interacción tanto básicos como avanzados y su integración para con las interfaces de usuario. A lo anterior, puedo añadir que me ha dado la capacidad para evaluar propiedades de calidad tan importantes como la usabilidad y la accesibilidad y las herramientas necesarias para ello.
 
 Con respecto a la adquisición de *soft skills*, me ha permitido perfeccionar las técnicas de trabajo en equipo, usando metodologías como [Kanban](https://kanbanize.com/es/recursos-de-kanban/primeros-pasos/que-es-kanban) para el reparto de tareas. Además, he entrenado el pensamiento crítico y la empatía, elaborando evaluaciones desde un punto de vista imparcial y realizando juicios de valor desde el punto de vista de usuarios ficticios. 
 
