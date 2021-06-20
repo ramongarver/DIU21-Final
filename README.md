@@ -211,7 +211,8 @@ Estas cuatro personas se han elaborado basándose en personas cercanas de mi ent
 
 ### Rediseño del caso de estudio
 
-#### Moodboard y Guía de Estilo
+#### Moodboard
+![image](img/moodboard.png)
 
 #### Mockup
 
