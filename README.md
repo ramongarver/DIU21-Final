@@ -207,14 +207,17 @@ Estas cuatro personas se han elaborado basándose en personas cercanas de mi ent
 
 :link: [Yuzin-Usability-Report.docx](doc/Yuzin-Usability-Report.docx)
 
-#### Propuesta de Mejora
-
 ### Rediseño del caso de estudio
 
 #### Moodboard
 ![image](img/moodboard.png)
 
 #### Mockup
+##### Página principal con mejora de distribución de información usando un grid de eventos
+![image](img/yuzin-mockup.png) 
+
+##### Tarjeta de evento
+![image](img/event-card.png) 
 
 #### Landing Page
 ##### Página 1
@@ -226,11 +229,11 @@ Estas cuatro personas se han elaborado basándose en personas cercanas de mi ent
 ![image](img/yuzin-landing-page-2.png)
 
 ##### Página 3
-###### Posibilidades y ventajas de la oferta para los usuarios
+###### Posibilidades y ventajas de la oferta para los usuarios (eventos)
 ![image](img/yuzin-landing-page-3.png)
 
 ##### Página 4
-###### Posibilidades y ventajas de la oferta para los usuarios
+###### Posibilidades y ventajas de la oferta para los usuarios (experiencias)
 ![image](img/yuzin-landing-page-4.png)
 
 ##### Simulación
