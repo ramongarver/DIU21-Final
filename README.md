@@ -217,6 +217,24 @@ Estas cuatro personas se han elaborado basándose en personas cercanas de mi ent
 #### Mockup
 
 #### Landing Page
+##### Página 1
+###### Información multimedia relevante para captar la atención de los usuarios
+![image](img/yuzin-landing-page-1.png)
+
+##### Página 2
+###### Explicación del valor y la importancia de la oferta para los usuarios
+![image](img/yuzin-landing-page-2.png)
+
+##### Página 3
+###### Posibilidades y ventajas de la oferta para los usuarios
+![image](img/yuzin-landing-page-3.png)
+
+##### Página 4
+###### Posibilidades y ventajas de la oferta para los usuarios
+![image](img/yuzin-landing-page-4.png)
+
+##### Simulación
+![gif](img/landing-page.gif)
 
 ### Conclusiones del caso de estudio
 
