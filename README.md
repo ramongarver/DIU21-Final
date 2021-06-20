@@ -111,10 +111,12 @@ Evidentemente, en la descripción realizada de mi experiencia no están reflejad
 
 ## Parte II: Caso de estudio. Web Yuzin
 ### Introducción
-En esta segunda parte se va a realizar el análisis del caso de estudio propuesto con el objetivo de establecer una propuesta de mejora basada en evidencias. En base a la propuesta de mejora se elaborará una propuesta de diseño de la interfaz. De todo el conjunto de técnicas estudiado y aplicado a lo largo de la asignatura, se van a seleccionar algunas técnicas para realizar tanto el análisis como el rediseño, ya que no es posible aplicarlas todas debido al límite temporal de realización del mismo. Se va a justificar la selección estas técnicas, explicando por qué se han considerado adecuadas y qué aportan al estudio, en base a las buenas prácticas vistas en la asignatura y a las nuevas tendencias de diseño.
+En esta segunda parte se va a realizar el análisis del caso de estudio propuesto con el objetivo de establecer una propuesta de mejora basada en evidencias. En base a la propuesta de mejora se elaborará una propuesta de diseño de la interfaz. De todo el conjunto de técnicas estudiado y aplicado a lo largo de la asignatura, se van a seleccionar algunas técnicas para realizar tanto el análisis como el rediseño, ya que no es posible aplicarlas todas debido al límite temporal de realización del mismo. Se va a realizar la selección de estas técnicas en base a las buenas prácticas vistas en la asignatura y a las nuevas tendencias de diseño.
 
-### Proceso seguido
-Explicación del proceso seguido...
+El proceso se va a dividir en **tres fases**:
+- **Exposición del caso de estudio**: donde se va a mostrar cómo era el proyecto en sus inicios y tras el rediseño.
+- **Evaluación del caso de estudio**: donde se va a evaluar el rediseño con el objetivo de establecer una propuesta de mejora basada en insights.
+- **Rediseño del caso de estudio**:  donde se va a mejorar el rediseño realizado con el objetivo de convertirlo en un producto completo desde el punto de vista del diseño centrado en el usuario.
 
 ### Exposición del caso de estudio
 [Yuzin](https://yuzin.com/ "Yuzin") es una agenda cultural, digital e impresa, de eventos como música, teatro, cine, baile, museos, etc. En sus inicios surgió con la idea de presentar revistas mensuales en formato físico promocionando las actividades culturales de las ciudades de Granada y Sevilla.
@@ -148,7 +150,7 @@ Obtenidas vía [Yuzin](https://yuzin.com/wp-content/uploads/2021/06/YUZIN-GRANAD
 - ¿Se ha aplicado correctamente el rediseño para mejorar la experiencia de usuario?
 - ¿Se mejoraría algo?
 
-A estas hipótesis se les darán respuesta en los procesos de evaluación y de rediseño. 
+Se responderán estas hipótesis en las fases de evaluación y de rediseño. 
 
 ### Evaluación del caso de estudio
 
