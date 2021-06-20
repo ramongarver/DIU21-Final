@@ -147,7 +147,8 @@ Obtenidas vía [Yuzin](https://yuzin.com/wp-content/uploads/2021/06/YUZIN-GRANAD
 - ¿Es adecuado el rediseño?
 - ¿Se ha aplicado correctamente el rediseño para mejorar la experiencia de usuario?
 - ¿Se mejoraría algo?
-A estas hipótesis se les darán respuesta en los proceso evaluador y de rediseño. 
+
+A estas hipótesis se les darán respuesta en los procesos de evaluación y de rediseño. 
 
 ### Evaluación del caso de estudio
 
