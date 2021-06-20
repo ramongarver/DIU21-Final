@@ -168,6 +168,8 @@ A estas hipótesis se les darán respuesta en los procesos de evaluación y de r
 
 :link: [Yuzin-Usability-Review.xlsx](doc/Yuzin-Usability-Review.xlsx)
 
+##### 🥉 Valoración final (numérica): ***60*** - ***Moderate***
+
 #### User Testing
 
 | Nombre  | Género    | Edad | Ocupación  | Experiencia en internet | Plataforma                         | Perfil cubierto                                                                                 | Puntuación SUS |
@@ -198,6 +200,10 @@ Estas cuatro personas se han elaborado basándose en personas cercanas de mi ent
 :link: [Yuzin-System-Usability-Scale-Test.xlsx](doc/Yuzin-System-Usability-Scale-Test.xlsx)
 
 #### Usability Report
+
+:link: [Yuzin-Usability-Report.pdf](doc/Yuzin-Usability-Report.pdf)
+
+:link: [Yuzin-Usability-Report.docx](doc/Yuzin-Usability-Report.docx)
 
 #### Propuesta de Mejora
 
